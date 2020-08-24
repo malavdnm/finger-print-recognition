@@ -37,28 +37,6 @@ for images in tqdm(image_names1):
 	i = i+1
 
 	
-# for images in tqdm(image_names2):
-# 	# print(images)
-# 	(a, b) = singularPointDetection('/home/malavdnm/Desktop/DIP/Project/DB2_B/' + images)
-# 	singularPoint_2[i,0] = a
-# 	singularPoint_2[i, 1] = b
-# 	print((a,b))
-# 	i = i+1
-
-# for images in tqdm(image_names3):
-# 	(a, b) = singularPointDetection('/home/malavdnm/Desktop/DIP/Project/DB3_B' + images)
-# 	singularPoint_3[k,0] = a
-# 	singularPoint_3[k, 1] = b
-# 	k = k+1
-	
-# for images in tqdm(image_names4):
-# 	print(images)
-# 	(a, b) = singularPointDetection('/home/malavdnm/Desktop/DIP/Project/DB4_B/' + images)
-# 	singularPoint_4[i,0] = a
-# 	singularPoint_4[i, 1] = b
-# 	print((a,b))
-# 	i = i+1
-	
 
 np.save('singularPoint_1.npy', singularPoint_1)
 # np.save('singularPoint_2.npy', singularPoint_2)
