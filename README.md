@@ -6,6 +6,6 @@ Using phase based information from images helps us achieve highly robust fingerp
 2. Primarily used **Band limited Phase Only Correlation (BLPOC)** measures to find the optimum rotations between test and database images. 
  
 # version 1 
-maatlab code 
+matlab code 
 # version 2
-Python ongoing
+**Python** ongoing
