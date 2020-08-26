@@ -8,5 +8,4 @@ Using phase based information from images helps us achieve highly robust fingerp
 
 # version 1 
 matlab code 
-# version 2
-**Python** ongoing
+
