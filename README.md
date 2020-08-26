@@ -6,6 +6,6 @@ Using phase based information from images helps us achieve highly robust fingerp
 1. Making use of Poincare Indices, extracted the maximum ridge line curvature points. 
 2. Primarily used **Band limited Phase Only Correlation (BLPOC)** measures to find the optimum rotations between test and database images. 
 
-# version 1 
+# language
 matlab code 
 
